@@ -1,0 +1,5 @@
+# ============================================
+#  requirements.txt - python dependencies (vendored vibegram is installed from ./vendor/vibegram)
+# ============================================
+telethon>=1.36,<2.0
+PySocks>=1.7.1

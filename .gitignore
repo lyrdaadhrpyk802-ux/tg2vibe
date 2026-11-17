@@ -1,0 +1,10 @@
+# ============================================
+#  .gitignore - keep secrets and local files out of git
+# ============================================
+.env
+.tg_session.txt
+*.session
+*.session-journal
+*.json.tmp
+*HANDOVER*
+__pycache__/
